@@ -1,6 +1,6 @@
 {
-    "name": "@ahasha/react-native-fast-image",
-    "version": "8.6.5",
+    "name": "@lookberry/react-native-fast-image",
+    "version": "8.6.6",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
